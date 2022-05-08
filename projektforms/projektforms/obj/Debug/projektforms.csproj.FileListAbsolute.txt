@@ -1,0 +1,10 @@
+C:\Users\birdd\source\repos\projektforms\projektforms\bin\Debug\projektforms.exe.config
+C:\Users\birdd\source\repos\projektforms\projektforms\bin\Debug\projektforms.exe
+C:\Users\birdd\source\repos\projektforms\projektforms\bin\Debug\projektforms.pdb
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.csproj.AssemblyReference.cache
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.Properties.Resources.resources
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.csproj.GenerateResource.cache
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.csproj.CoreCompileInputs.cache
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.exe
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.pdb
+C:\Users\birdd\source\repos\projektforms\projektforms\obj\Debug\projektforms.Ptak.resources
